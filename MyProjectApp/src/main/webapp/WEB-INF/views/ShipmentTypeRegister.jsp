@@ -9,6 +9,7 @@
 <body>
 	<h3>
 		<center>Welcome to Shipment Type Register Page::</center>
+		<h3>Welcome Khan</h3>
 	</h3>
 	<form action="save" mothod="post">
 	<pre>
